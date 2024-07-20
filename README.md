@@ -99,7 +99,7 @@ Output:
 2. Open your terminal
 Paste this command
 ```bash
-git clone https://github.com/janasagar/Evaluation-4.git
+git clone https://github.com/janasagar/Republic-REST_074_API_Cypress.git
 ```
 3. Open your IDE VS Code and navigate to downloaded folder.
 4. Open terminal within your IDE
